@@ -8,4 +8,4 @@ Execução: Configure sua API Key do Gemini no ambiente (Google Colab ou local) 
 
 Ao final:
 
-Um resumo da conversa é gerado Os dados são estruturados em JSON
+Um resumo da conversa é gerado e os dados são estruturados em JSON
